@@ -33,6 +33,5 @@
                 </configuration>
             </plugin>
         </plugins>
-             <finalname>hello-1.0</finalname>
     </build>
 </project>
